@@ -1,11 +1,9 @@
-# 《神经网络与深度学习》课程练习
+# 2026年《深度学习》课程练习
 
 书籍信息：[神经网络与深度学习](https://nndl.github.io/)
 
-欢迎大家补充练习题目。
-
 ### 环境设定
-本次作业需要首先安装 anaconda3 下载地址 https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/ ， 
+anaconda3 
 tensorflow 2.0
 pytorch >0.4
 
@@ -14,6 +12,7 @@ pytorch >0.4
 ###  1. 热身练习 warmup
 numpy是Python中对于矩阵处理很实用的工具包，本小节作业主要是熟悉基本的numpy操作。
 
+2026.3.5已完成
 ### 2. 线性回归模型 Linear Regression
 
 ### 3. 线性模型
