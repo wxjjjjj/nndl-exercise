@@ -23,9 +23,11 @@ numpy是Python中对于矩阵处理很实用的工具包，本小节作业主要
 ### 4. 前馈神经网络 Simple Neural Network
 
 利用numpy实现全连接神经网络
+2026.3.16已完成
 
 ### 5. 卷积神经网络 Convolutional Neural Network (CNN)
 利用卷积神经网络，处理MNIST 数据集分类问题。
+2026.3.16已完成
 
 ### 6. 循环神经网络 Recurrent Neural Network (RNN)
 基于循环神经网络的唐诗生成问题
