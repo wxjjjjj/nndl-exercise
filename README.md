@@ -40,6 +40,8 @@ numpy是Python中对于矩阵处理很实用的工具包，本小节作业主要
 1.  使用sequence to sequence 模型将一个字符串序列逆置。 
 2. 使用attentive sequence to sequence 模型将一个字符串序列逆置。
 
+2026.3.27已完成
+
 ### 11. 高斯混合模型 Gaussian Mixture Model
 
 ### 12. 受限玻尔兹曼机 Restricted Boltzmann Machine (RBM)
