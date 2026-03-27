@@ -33,6 +33,8 @@ numpy是Python中对于矩阵处理很实用的工具包，本小节作业主要
 
 ### 6. 循环神经网络 Recurrent Neural Network (RNN)
 基于循环神经网络的唐诗生成问题
+
+2026.3.26 已完成
 ### 7. 注意力机制 Attention Mechanism
 
 1.  使用sequence to sequence 模型将一个字符串序列逆置。 
